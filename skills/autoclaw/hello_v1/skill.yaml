@@ -1,0 +1,6 @@
+name: autoclaw_hello
+version: 1.0.0
+entry: main.py
+dependencies: []
+permissions:
+  - proc.exec
