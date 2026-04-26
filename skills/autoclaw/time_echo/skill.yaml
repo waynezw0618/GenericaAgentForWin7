@@ -1,0 +1,6 @@
+name: autoclaw_time
+version: 1.0.0
+entry: run.py
+dependencies: []
+permissions:
+  - proc.exec
